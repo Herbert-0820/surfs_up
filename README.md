@@ -8,10 +8,10 @@
 
 ### June
 
-![alt text](results.png)
+![alt text](https://github.com/Herbert-0820/surfs_up/blob/main/June.jpeg)
 
 ### December
 
-![alt text](results.png)
+![alt text](https://github.com/Herbert-0820/surfs_up/blob/main/December.jpeg)
 
 ## Summary
