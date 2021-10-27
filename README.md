@@ -13,3 +13,5 @@ December
 ![alt text](https://github.com/Herbert-0820/surfs_up/blob/main/December.jpeg)
 
 # Summary
+
+It is really hard to decide based on the query we have now. More queries need to be run, from there, we can decide how we would like to build the shop and where we can buld the shop.
